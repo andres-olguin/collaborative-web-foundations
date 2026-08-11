@@ -1,7 +1,5 @@
 <<<<<<< HEAD
-/* ==========================================
-   VARIABLES Y CONFIGURACIÓN GLOBAL
-   ========================================== */
+
 :root {
     --bg-dark: #0b0f19;
     --card-bg: rgba(20, 30, 55, 0.6);
@@ -43,9 +41,6 @@ body {
     pointer-events: none;
 }
 
-/* ==========================================
-   NAVBAR & ENCABEZADO
-   ========================================== */
 .navbar {
     display: flex;
     justify-content: space-between;
